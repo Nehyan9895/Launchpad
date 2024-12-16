@@ -1,0 +1,11 @@
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Multiply\bin\Debug\net9.0\Multiply.deps.json
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Multiply\bin\Debug\net9.0\Multiply.dll
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Multiply\bin\Debug\net9.0\Multiply.pdb
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Multiply\obj\Debug\net9.0\Multiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Multiply\obj\Debug\net9.0\Multiply.AssemblyInfoInputs.cache
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Multiply\obj\Debug\net9.0\Multiply.AssemblyInfo.cs
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Multiply\obj\Debug\net9.0\Multiply.csproj.CoreCompileInputs.cache
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Multiply\obj\Debug\net9.0\Multiply.dll
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Multiply\obj\Debug\net9.0\refint\Multiply.dll
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Multiply\obj\Debug\net9.0\Multiply.pdb
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Multiply\obj\Debug\net9.0\ref\Multiply.dll

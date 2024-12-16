@@ -1,0 +1,11 @@
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Subtract\bin\Debug\net9.0\Subtract.deps.json
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Subtract\bin\Debug\net9.0\Subtract.dll
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Subtract\bin\Debug\net9.0\Subtract.pdb
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Subtract\obj\Debug\net9.0\Subtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Subtract\obj\Debug\net9.0\Subtract.AssemblyInfoInputs.cache
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Subtract\obj\Debug\net9.0\Subtract.AssemblyInfo.cs
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Subtract\obj\Debug\net9.0\Subtract.csproj.CoreCompileInputs.cache
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Subtract\obj\Debug\net9.0\Subtract.dll
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Subtract\obj\Debug\net9.0\refint\Subtract.dll
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Subtract\obj\Debug\net9.0\Subtract.pdb
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Subtract\obj\Debug\net9.0\ref\Subtract.dll

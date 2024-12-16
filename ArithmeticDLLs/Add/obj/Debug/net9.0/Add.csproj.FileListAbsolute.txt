@@ -1,0 +1,11 @@
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Add\bin\Debug\net9.0\Add.deps.json
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Add\bin\Debug\net9.0\Add.dll
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Add\bin\Debug\net9.0\Add.pdb
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Add\obj\Debug\net9.0\Add.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Add\obj\Debug\net9.0\Add.AssemblyInfoInputs.cache
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Add\obj\Debug\net9.0\Add.AssemblyInfo.cs
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Add\obj\Debug\net9.0\Add.csproj.CoreCompileInputs.cache
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Add\obj\Debug\net9.0\Add.dll
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Add\obj\Debug\net9.0\refint\Add.dll
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Add\obj\Debug\net9.0\Add.pdb
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Add\obj\Debug\net9.0\ref\Add.dll

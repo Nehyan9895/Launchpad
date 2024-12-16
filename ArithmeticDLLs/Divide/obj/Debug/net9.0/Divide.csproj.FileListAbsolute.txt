@@ -1,0 +1,11 @@
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Divide\bin\Debug\net9.0\Divide.deps.json
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Divide\bin\Debug\net9.0\Divide.dll
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Divide\bin\Debug\net9.0\Divide.pdb
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Divide\obj\Debug\net9.0\Divide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Divide\obj\Debug\net9.0\Divide.AssemblyInfoInputs.cache
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Divide\obj\Debug\net9.0\Divide.AssemblyInfo.cs
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Divide\obj\Debug\net9.0\Divide.csproj.CoreCompileInputs.cache
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Divide\obj\Debug\net9.0\Divide.dll
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Divide\obj\Debug\net9.0\refint\Divide.dll
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Divide\obj\Debug\net9.0\Divide.pdb
+C:\Users\nehya\OneDrive\Desktop\ArithmeticDLLs\Divide\obj\Debug\net9.0\ref\Divide.dll
